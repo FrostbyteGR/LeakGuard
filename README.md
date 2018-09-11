@@ -2,7 +2,7 @@
 
 ## I. DESCRIPTION:
 
-Batch file to monitor and terminate a process should it surpass the specified memory limit.
+Batch file to monitor and terminate a process should it surpass the specified memory limit
 
 Copyright (c) 2018 Frostbyte <frostbytegr@gmail.com>
 
